@@ -52,25 +52,25 @@ Many Tech Actions provoke saves as do many of the other control options. The com
 While this doesn't _directly_ make your Tech Action better, if you are trying to trigger Infiltrator II this Core Bonus can be very useful.
 
 ## Building The Mech
-When looking at a Mech Frame in regards to your hacker character, it is worth discussing both the Tech Actions etc. that the License grants as well as the suitability of the Frame as a hacker's Mech. Two essential stats for this are the Save Target and the Sensor range, and many Mechs have special abilities that make Tech Actions and their companion actions easier.
+When looking at a Mech Frame in regards to your hacker character, it is worth discussing both the Tech Actions etc. that the License grants as well as the suitability of the Frame as a hacker's Mech. The essential stats for this are the Save Target, The Tech Attack Bonus, and the Sensor range. Many Mechs also have special abilities that make Tech Actions and their companion actions easier.
 ### GMS
-#### Everest (S: 10, ST:10)
+#### Everest (S: 10, TA: +0, ST:10)
 At LL0 this is your Mech, but even at higher LLs it can be a solid hacker platform due to it's special ability and core system. Opening a tough fight with a HYPERSPEC FUEL INJECTOR, Overcharge and INITIATIVE would allow you 4x Accurate Invade Actions and plenty of movement which could change the whole course of the combat.
 ### IPS-N
-#### Lancaster (S: 8, ST: 10)
-Even with it's lackluster Sensor stat, the Lancaster is the only dedicated healing Mech in the game, and thus a strong choice for a supportive build. Given the shorter Sensor range it would be good to foocus on Hull to increase both your survivability and Repair Cap.
-#### Raleigh (S: 10, ST: 10)
-Definitely not a classic hacker platform, the Raleigh bears mentioning due to the Trait FULL METAL JACKET. This Trait allows a free reload of all Loading weapons if you don't make attacks or provoke saves on a turn, which makes a hybrid attack and support build very possible by unloading your weapons and then spending a turn Locking On etc.
+#### Lancaster (S: 8, TA: +1, ST: 10)
+Even with it's lackluster Sensor stat, the Lancaster is the only dedicated healing Mech in the game, and thus a strong choice for a supportive build. Given the shorter Sensor range it would be good to focus on Hull to increase both your survivability and Repair Cap.
+#### Raleigh (S: 10, TA: -1 ST: 10)
+Definitely not a classic hacker platform, the Raleigh bears mentioning due to the Trait FULL METAL JACKET. This Trait allows a free reload of all Loading weapons if you don't make attacks or provoke saves on a turn, which makes a hybrid attack and support build very possible by unloading your weapons and then spending a turn Locking On etc. though the lacluster Tech Attack bonus means that you probably want to avoid offensive hacking.
 
 ### SSC
-#### Black Witch (S: 15, ST: 11)
+#### Black Witch (S: 15, TA: +0, ST: 11)
 The Black Witch combines good Sensor and Save Target with some strong defensive Traits to make a solid control-centered hacking platform. The ICEOUT Drone (BW II) can be a low-investment way to foil an enemy hacker, as can the Black ICE Module (BW III).
 
-#### Death's Head (S: 20, ST: 10)
+#### Death's Head (S: 20, TA: +0, ST: 10)
 The Death's Head II License provides the Tracking Bug Quick Tech option, which is a great way to prevent invisible enemies from giving you trouble. Additionally it's excellent Sensor range makes it a strong candidate for a support artillery hybrid build.
 
-#### Dusk Wing (S: 10, ST: 11)
-Neurospike (DW I) provides a couple of good defensive control options, and the rest of the license provides a number of ways to mess with visibility and provoke saves. It is worth noting that the trait Harlequin Cloak is redundant with Infiltrator I for the purposes of triggering Infiltrator II, though it can provide needed enemy Reaction defense.
+#### Dusk Wing (S: 10, TA: +1, ST: 11)
+Neurospike (DW I) provides a couple of good defensive control options, and the rest of the license provides a number of ways to mess with visibility and provoke saves. It is worth noting that the trait Harlequin Cloak is redundant with Infiltrator I for the purposes of triggering Infiltrator II, though it can provide needed enemy Reaction defense. With both a good Tech Attack Bonus and Save Target, the Dusk Wing is a solid frame choice for a Heat or control based hacker, though you will likely need another license for more Invade options.
 
 #### Metal Mark (S: 10, ST: 10)
 The Metal Mark License doesn't offer much to directly aid Tech Actions, but both the Core System and Active Camoflauge (MM III) make it very easy to provoke Infiltrator II.
@@ -79,15 +79,33 @@ The Metal Mark License doesn't offer much to directly aid Tech Actions, but both
 The Mourning Cloak license is actually focused around Teleporting hit and run attacks, but the Frame does have good Sensor range and MC II provides Hunter Logic Sweet which allows for two Invade options.
 
 #### Swallowtail (S: 20, ST: 10)
-With 20 Sensor range and the trait PROPHETIC SCANNERS, Swallowtail is the gold standard of Lock-On support mechs. The INTEGRATED CLOAK also synergizes nicely with Infiltrator I to set up Infiltrator II. The first License Level provides a Full Tech Attack that causes both Heat and Lock-On, as well as allowing you to use a Reaction to upgrade an ally's hit to a critical; as this competes with Invade + Lock-On it is really only useful if you have an ally that loves crits. Finally the ATHENA-Class NHP can provide AOE Lock-On and the LB/OC Cloaking Field AOE invisibility, bith at the third License Level.
+With 20 Sensor range and the trait PROPHETIC SCANNERS, Swallowtail is the gold standard of Lock-On support mechs. The INTEGRATED CLOAK also synergizes nicely with Infiltrator I to set up Infiltrator II. The first License Level provides a Full Tech Attack that causes both Heat and Lock-On, as well as allowing you to use a Reaction to upgrade an ally's hit to a critical; as this competes with Invade + Lock-On it is really only useful if you have an ally that loves crits. Finally the ATHENA-Class NHP can provide AOE Lock-On and the LB/OC Cloaking Field AOE invisibility, both at the third License Level.
 
 ### HORUS
-#### Balor
-#### Goblin
-#### Gorgon
-#### Hydra
-#### Manticore
+#### Balor (S: 5, TA: +1, ST: 10)
+The Balor is an odd mech for a hacker, the low Sensor range pushes it clearly to a front-line role, which is further aided by Scanner Swarm (B I) that gives Accuracy to Tech Attacks on adjacent enemies, as well as the potent Regeneration Trait. With easy access to Accuracy, you can shift some Mech Skills from Systems to Hull which can greatly increase the Balor's survivability. It is worth noting that many of the Balor's weapons have the Smart tag, so it may be difficult to effect high E-Defense targets with just the equipment in the license.
+
+#### Goblin (S: 20, TA: +2, ST: 11)
+The Goblin is the gold standard for a Tech Attack based hacker frame, with +2 and permanent Accuracy on Tech Attacks you hardly need to focus on the Systems Skill to hit regularly. There are a plethora of Tech Action goodies in this license so I will run them down individually.
+##### Goblin I
+This level has Autopod which allows you to take a Reaction to auto-hit for 3 Damage when an Ally consumes a Lock-On, obviously a great way to add Damage to a support build. It also allows H0R_OS System Upgrade I which provides two excellent control Invade options.
+##### Goblin II
+In addition to the frame itself, this license level grant Metahook which allows you to hack from even farther away, and H0R_OS System Upgrade II which provides non-Invade Tech Actions which can either create cover or make an illusory duplicate of a target which forces Systems saves when enemies attempt to attack it.
+##### Goblin III
+The final level of Goblin license provides two more Invade options in the form of H0R_OS System Upgrade III, as well as an NHP that provides access to the Action Hurl Into Duat. This Action is a Quick Tech that causes 2 Heat and an effect, but is not an Invade and is notably limited to once per round. The effect rotates through four modes, the first 3 are classic control and condition application, but the forth allows you to dictate all of the actions of an enemy. Notably, you needn't direct all four actions at the same target, so you can power up OSIRIS on low E-Defense before setting up a tougher target with a Lock-On for the Fourth Gate.
+
+#### Gorgon (S: 8, TA: +1, ST: 12)
+The Gorgon, while not a dedicated hacker's mech, has a strong Save Target, and the //SCORPION V70.1 module which punishes those who try and fail Tech Actions against you. The Gaze Trait also synergizes well with the Lesson of the Held Image Core Bonus. 
+
+#### Hydra (S: 10, TA: +1, ST: 10)
+The Hydra is first and foremost a drone focussed mech. It has solid base stats, and does provide a Quick Tech action (H I) although this action is entirely drone dependent.
+
+#### Manticore (S: 10, TA: +1, ST: 10)
+The Manticore license provides a pair of Invade options at each of level I and II, while potent, many of these options cause electric damage to you and are thus most likely to be effective when you use the Manticore as your frame for its electrical resistance.
+
 #### Minotaur
+
+
 ### HA
 #### Iskander
 

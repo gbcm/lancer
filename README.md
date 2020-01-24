@@ -103,7 +103,7 @@ The Hydra is first and foremost a drone focussed mech. It has solid base stats, 
 #### Manticore (S: 10, TA: +1, ST: 10)
 The Manticore license provides a pair of Invade options at each of level I and II, while potent, many of these options cause electric damage to you and are thus most likely to be effective when you use the Manticore as your frame for its electrical resistance.
 
-#### <font color="cyan">Minotaur</font> (S: 8, TA: +1, ST: 11)
+#### <span style="color:cyan">Minotaur</span> (S: 8, TA: +1, ST: 11)
 After the Goblin, the Minotaur is probably the most Tech Action focussed license and frame. Your Core System passive allows for a Quick Action that upgrades Slowed to Immobilized and Immobilized to Stunned after hitting with a Tech Attack, while this is often less total control than doing a second Tech Attack, it is always successful. The Core System Active also can be made even more potent with the Disable Life Support Invade option from Hacker II. Like the Goblin there are several Teach Action focussed options, so I will go over them level by level.
 ##### Minotaur I
 This license level provides System save provoking mine/grenades and the Viral Logic Suite which provides two excellent control Invade options.
@@ -114,7 +114,7 @@ The final level of the Minotaur license unlocks Law of Blades which provides two
 
 
 ### HA
-#### <span><font color="green">Iskander</font></span> (S: 15, TA: +1, ST: 12)
+#### <span style="color:green">Iskander</span> (S: 15, TA: +1, ST: 12)
 The Iskander License only provides one Quick Tech Action which can either make a Blast 3 area of zero gravity or levitate a single target. With strong Sensors and the best Save Target in the core book combined with reasonable defensive stats, it is a strong contender for a hacker's Frame, especially if you utilize it's mine laying Traits to diversify your Saves.
 
 ## Invade Options

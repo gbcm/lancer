@@ -103,13 +103,28 @@ The Hydra is first and foremost a drone focussed mech. It has solid base stats, 
 #### Manticore (S: 10, TA: +1, ST: 10)
 The Manticore license provides a pair of Invade options at each of level I and II, while potent, many of these options cause electric damage to you and are thus most likely to be effective when you use the Manticore as your frame for its electrical resistance.
 
-#### Minotaur
+#### Minotaur (S: 8, TA: +1, ST: 11)
+After the Goblin, the Minotaur is probably the most Tech Action focussed license and frame. Your Core System passive allows for a Quick Action that upgrades Slowed to Immobilized and Immobilized to Stunned after hitting with a Tech Attack, while this is often less total control than doing a second Tech Attack, it is always successful. The Core System Active also can be made even more potent with the Disable Life Support Invade option from Hacker II. Like the Goblin there are several Teach Action focussed options, so I will go over them level by level.
+##### Minotaur I
+This license level provides System save provoking mine/grenades and the Viral Logic Suite which provides two excellent control Invade options.
+##### Minotaur II
+This allows Metafold Carver, which in turn provides two battlefield positioning Invade options. It also allows Aggressive Systems Sync a non-Invade Full Tech Attack which has two options, either Chains of Prometheus which penalizes a target with Heat for moving away from you, and Excommunicate which penalizes them with Heat for moving adjacent to their allies.
+##### Minotaur III
+The final level of the Minotaur license unlocks Law of Blades which provides two non-Invade Full Tech Attacks which combined allow you to dictate a sing Weapon Attack, Boost, Stabilize, Improvised Attack, Grapple, or Ram. This level also contains the Interdiction Field, which while not a Tech Attack per se, is excellent at forcing more saves.
 
 
 ### HA
-#### Iskander
+#### Iskander (S: 15, TA: +1, ST: 12)
+The Iskander License only provides one Quick Tech Action which can either make a Blast 3 area of zero gravity or levitate a single target. With strong Sensors and the best Save Target in the core book combined with reasonable defensive stats, it is a strong contender for a hacker's Frame, especially if you utilize it's mine laying Traits to diversify your Saves.
 
 ## Invade Options
+| Name | Origin | Defense | Effect |
+|---|---|---|---|
+| Fragment Signal | Base | E-Def | Impair and Slowed |
+| Jam Cockpit | Hacker II Talent | E-Def | Can't mount or dismount |
+| Disable Life Support | Hacker II Talent | E-Def | -1d on Saves |
+| Hack./Slash | Hacker II Talent | E-Def | Cannot benefit fromor take Tech Actions |
+
 
 ## Example Characters
 ### Dadalus

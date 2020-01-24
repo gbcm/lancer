@@ -78,14 +78,14 @@ The Metal Mark License doesn't offer much to directly aid Tech Actions, but both
 #### Mourning Cloak (S: 15, ST: 10)
 The Mourning Cloak license is actually focused around Teleporting hit and run attacks, but the Frame does have good Sensor range and MC II provides Hunter Logic Sweet which allows for two Invade options.
 
-#### Swallowtail (S: 20, ST: 10)
+#### <font color="cyan">Swallowtail</font> (S: 20, ST: 10)
 With 20 Sensor range and the trait PROPHETIC SCANNERS, Swallowtail is the gold standard of Lock-On support mechs. The INTEGRATED CLOAK also synergizes nicely with Infiltrator I to set up Infiltrator II. The first License Level provides a Full Tech Attack that causes both Heat and Lock-On, as well as allowing you to use a Reaction to upgrade an ally's hit to a critical; as this competes with Invade + Lock-On it is really only useful if you have an ally that loves crits. Finally the ATHENA-Class NHP can provide AOE Lock-On and the LB/OC Cloaking Field AOE invisibility, both at the third License Level.
 
 ### HORUS
 #### Balor (S: 5, TA: +1, ST: 10)
 The Balor is an odd mech for a hacker, the low Sensor range pushes it clearly to a front-line role, which is further aided by Scanner Swarm (B I) that gives Accuracy to Tech Attacks on adjacent enemies, as well as the potent Regeneration Trait. With easy access to Accuracy, you can shift some Mech Skills from Systems to Hull which can greatly increase the Balor's survivability. It is worth noting that many of the Balor's weapons have the Smart tag, so it may be difficult to effect high E-Defense targets with just the equipment in the license.
 
-#### Goblin (S: 20, TA: +2, ST: 11)
+#### <font color="cyan">Goblin</font> (S: 20, TA: +2, ST: 11)
 The Goblin is the gold standard for a Tech Attack based hacker frame, with +2 and permanent Accuracy on Tech Attacks you hardly need to focus on the Systems Skill to hit regularly. There are a plethora of Tech Action goodies in this license so I will run them down individually.
 ##### Goblin I
 This level has Autopod which allows you to take a Reaction to auto-hit for 3 Damage when an Ally consumes a Lock-On, obviously a great way to add Damage to a support build. It also allows H0R_OS System Upgrade I which provides two excellent control Invade options.
@@ -103,7 +103,7 @@ The Hydra is first and foremost a drone focussed mech. It has solid base stats, 
 #### Manticore (S: 10, TA: +1, ST: 10)
 The Manticore license provides a pair of Invade options at each of level I and II, while potent, many of these options cause electric damage to you and are thus most likely to be effective when you use the Manticore as your frame for its electrical resistance.
 
-#### Minotaur (S: 8, TA: +1, ST: 11)
+#### <font color="cyan">Minotaur</font> (S: 8, TA: +1, ST: 11)
 After the Goblin, the Minotaur is probably the most Tech Action focussed license and frame. Your Core System passive allows for a Quick Action that upgrades Slowed to Immobilized and Immobilized to Stunned after hitting with a Tech Attack, while this is often less total control than doing a second Tech Attack, it is always successful. The Core System Active also can be made even more potent with the Disable Life Support Invade option from Hacker II. Like the Goblin there are several Teach Action focussed options, so I will go over them level by level.
 ##### Minotaur I
 This license level provides System save provoking mine/grenades and the Viral Logic Suite which provides two excellent control Invade options.
@@ -114,7 +114,7 @@ The final level of the Minotaur license unlocks Law of Blades which provides two
 
 
 ### HA
-#### Iskander (S: 15, TA: +1, ST: 12)
+#### <span><font color="green">Iskander</font></span> (S: 15, TA: +1, ST: 12)
 The Iskander License only provides one Quick Tech Action which can either make a Blast 3 area of zero gravity or levitate a single target. With strong Sensors and the best Save Target in the core book combined with reasonable defensive stats, it is a strong contender for a hacker's Frame, especially if you utilize it's mine laying Traits to diversify your Saves.
 
 ## Invade Options
